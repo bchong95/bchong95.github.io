@@ -136,10 +136,9 @@ In my senior year of High School I started the [Harvard-Westlake Minecraft Club]
     *   U.S. History - 670
 
 ## Resume
-
-<object data="https://github.com/bchong95/Resume/raw/master/resume.pdf" type="application/pdf" width="850" height="1075">
-  Alternative text - include a link [to the PDF!](https://github.com/bchong95/Resume/raw/master/resume.pdf)
-</object>
+<div>
+  <iframe src="http://docs.google.com/viewer?url=https://github.com/bchong95/Resume/raw/master/resume.pdf&embedded=true" frameborder="0" allowfullscreen style="border: none;width: 850px;height: 1000px;"></iframe>
+</div>
 
 ## Interests
 
