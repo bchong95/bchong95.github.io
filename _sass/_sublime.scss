@@ -1,0 +1,54 @@
+// Monokai Color Palate
+$monokai-blue: #66D9EF;
+$monokai-blue-light :#89BDFF;
+$monokai-gray :#595959;
+$monokai-grey-dark :#272822;
+$monokai-gray-darker :#383830;
+$monokai-gray-darkest :#141411;
+$monokai-gray-lightest :#595959;
+$monokai-gray-light :#E6E6E6;
+$monokai-green :#A6E22A;
+$monokai-green-light :#A6E22E;
+$monokai-magenta :#F92672;
+$monokai-purple :#AE81FF;
+$monokai-purple-light :#FD5FF1;
+$monokai-yellow :#E6DB74;
+$monokai-yellow-dark :#75715E;
+$monokai-yellow-light :#F8F8F2;
+$monokai-black: #272822;
+$monokai-pink: #F92672;
+$monokai-orange: #FD971F;
+$white: #F8F8F2;
+
+$font-stack: monospace, Roboto, Helvetica;
+
+body {
+  background-color: $monokai-black;
+  color: $white;
+  font-family: $font-stack;
+}
+
+#treeMenu {
+  background-color: $monokai-gray-light;
+  color: $monokai-black;
+}
+
+h2,h3,h4,h5,h6 {
+  color: $monokai-blue;
+}
+
+a{
+	text-decoration: none;
+}
+
+#treeMenu a:link, #treeMenu a:visited{
+	color: #272822;
+}
+
+a:link, a:visited{
+	color: #F92672;
+}
+
+a:hover, a:active {
+	color: #FD971F;
+}
