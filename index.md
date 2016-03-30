@@ -137,11 +137,9 @@ In my senior year of High School I started the [Harvard-Westlake Minecraft Club]
 
 ## Resume
 
-<div id="Resume_div" class="indent"><object data="Resume.pdf" type="application/pdf" width="850" height="1075">
-
-Alternative text - include a link [to the PDF!](Resume.pdf)
-
-</object></div>
+<object data="https://github.com/bchong95/Resume/raw/master/resume.pdf" type="application/pdf" width="850" height="1075">
+  Alternative text - include a link [to the PDF!](https://github.com/bchong95/Resume/raw/master/resume.pdf)
+</object>
 
 ## Interests
 
