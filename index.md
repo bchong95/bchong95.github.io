@@ -111,7 +111,7 @@ In my senior year of High School I started the [Harvard-Westlake Minecraft Club]
 *   [Math 463/ Stat 400 - Statistics and Probability I](http://publish.illinois.edu/sculpepper/stat-400-math-463/)
 *   [Math 461/ Stat 420 - Methods of Applied Statistics (Ongoing)](http://publish.illinois.edu/sculpepper/stat-400-math-461/)
 
-### High School: [Harvard-Westlake](http://hw.com/) August 2009 - May 2013
+<!-- ### High School: [Harvard-Westlake](http://hw.com/) August 2009 - May 2013
 
 *   Cumulative GPA - 3.7/5
   *   Testing Scores
@@ -133,11 +133,11 @@ In my senior year of High School I started the [Harvard-Westlake Minecraft Club]
   *  SAT II Subject Tests
     *   Mathematics Level 2 - 790
     *   Physics - 720
-    *   U.S. History - 670
+    *   U.S. History - 670 -->
 
 ## Resume
 <div>
-  <iframe src="http://docs.google.com/viewer?url=https://github.com/bchong95/Resume/raw/master/resume.pdf&embedded=true" frameborder="0" allowfullscreen style="border: none;width: 850px;height: 1000px;"></iframe>
+  <iframe src="http://docs.google.com/viewer?url=https://github.com/bchong95/Resume/raw/master/resume.pdf&embedded=true" frameborder="0" allowfullscreen style="border: none;width: 850px;height: 1100px;"></iframe>
 </div>
 
 ## Interests
