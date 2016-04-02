@@ -54,15 +54,15 @@ Chong University is a completely fictional university that I made up for fun. Th
 
 ## Experience
 
-### NMSI Group - Summer '14
+### NMSI Group
 
-#### Programmer and I.T. Specialist
+#### Programmer and I.T. Specialist - Summer '14
 
 In the summer of my freshmen year I got an internship at [NMSI Group](http://nmsigroup.com). NMSI Group is a wholesale mortgage firm located at the heart of Koreatown. My responsibilities at NMSI varied from maintaining printers and setting up computers to web development to updating database schemas. The process and work flow was simple yet critical at every step. It starts with a broker coming to us inquiring about a loan for his client. The broker sends everything to in well formatted text file known as a [Fannie Mae 3.2 file](https://www.fanniemae.com/singlefamily/technology-integration). From there it was my job to write code to parse all the information and send all the data to our MSSQL servers. Once all the information is in our servers it's all about working with the data in meaningful ways. There is a lot of micro steps between receiving a loan and approving it for funding and it was my job to make sure that everything goes as smoothly and as efficiently as possible. I had many responsibilities and tasks at NMSI and I have documented them all here at [http://brandonchong.net/NMSI](http://brandonchong.net/NMSI)
 
-### University of Illinois - Fall '14 - Present
+### University of Illinois
 
-#### CS 173, CS 125, and CS 241 Course Assistant
+#### CS 173, CS 125, and CS 241 Course Assistant - Fall '14 - Present
 
 In the sophomore year of my undergraduate education, I was offered a teaching position at my university. [CS 173 - Discrete Structures](https://courses.engr.illinois.edu/cs173/) is a discrete math course, which teaches computer science majors the fundamentals of mathematics that they need in order to rigorously work with the concepts in their theoretical courses. This course has about 540 students and has a wide variety of students that come from many different majors, educational backgrounds, and interests. My responsibilities for this course consisted of 2 office hours, 2 discussion sections, and a weekly group meeting; summing up to 5 hours of responsibilities a week.
 
@@ -72,13 +72,13 @@ In the spring of my sophomore year I signed up to be a CS 241 Course Assistant. 
 
 Teaching was probably the first time in my life that I knew exactly why I was staying up late at night and waking up early in the morning. I learned just as much in my time on [course staffs](./Teaching/) as I did as a student in lecture halls and hope to one day be on course staffs for many different courses to constantly meet new types of students and challenge myself to be the best educator I can be.
 
-### Harvard-Westlake Video Game Design
+### Video Game Design
 
 #### Lead Artificial Intelligence Designer and Programmer
 
 In my senior year of High School, I took a video game design course. The course was structured as a semester long class project. The first couple of weeks were dedicated to learning just what was video game design and what roles people play in it. Eventually we agreed on a project, which came to be known as [Cubed](#Cubed) and split up into our prefered roles. Some chose to be artist, others writers, and I chose to be a programmer. This project was the first were I had the opportunity to work with people who thought completely differently for me. Little did I know that artists weren't satisfied with a grid full of primary colors (every piece of the game had to have character), writers weren't satisfied with a 2 paragraph plot (the pieces needed a reason to be there) and they in turn learned that programmers weren't satisfied with just functional code (there had to be efficiency combined with elegance). Eventually, the basic game logic was coded and the programmers had the liberty of picking a side project. I chose to make an artificial intelligence for the game. Starting with nothing but my basic knowledge of object orientated programming I researched A.I. algorithms and eventually made a rudimentary A.I. that could consistently beat half the class.
 
-### Harvard-Westlake Minecraft Club
+### Minecraft Club
 
 #### Founder and President
 
@@ -86,30 +86,30 @@ In my senior year of High School I started the [Harvard-Westlake Minecraft Club]
 
 ## Education
 
-### Undergraduate: [University of Illinois at Urbana-Champaign](http://www.illinois.edu/) August 2013-Present
+### University of Illinois
 
+* August 2013-Present
 * Expected Gradation: May 2017
 * Cumulative GPA: 3.36/4
 * Bachelors of Science in Computer Science : May 2017
 * James Scholar Honors Program : August 2013 - Present
-
-#### Courses
-*   [CS 125 - Intro to Computer Science](https://wiki.cites.illinois.edu/wiki/display/cs125/Home)
-*   [CS 173 - Discrete Structures](https://courses.engr.illinois.edu/cs173/)
-*   [CS 196 - Freshmen Honors (for CS 125)](https://wiki.cites.illinois.edu/wiki/display/cs125/Honors)
-*   [CS 225 - Data Structures](https://wiki.cites.illinois.edu/wiki/display/cs225/Home)
-*   [CS 233 - Computer Architecture](https://wiki.cites.illinois.edu/wiki/display/cs233fa14/Home)
-*   [CS 241 - Systems Programming](http://courses.engr.illinois.edu/cs241)
-*   [CS 296 - Honors Course (for CS 233)](https://wiki.cites.illinois.edu/wiki/display/cs233fa14/Home)
-*   [CS 357 - Numerical Methods I (Ongoing)](https://courseflow.cs.illinois.edu/course/cs357-f14/)
-*   [CS 397 - Individual Study (Course Assistant for CS 125)](https://wiki.cites.illinois.edu/wiki/display/cs125/Home)
-*   [CS 411 - Database Systems (Ongoing)](http://www.cs.uiuc.edu/class/fa07/cs411/)
-*   [CS 461 - Computer Security I (Ongoing)](https://courses.engr.illinois.edu/cs461/fa2009/)
-*   CS 498 - Art and Science of Web Programming (Ongoing)
-*   [Math 241 Honors - Calculus III](http://www.math.uiuc.edu/~oikhberg/F13/241/ea.html)
-*   [Math 415 - Applied Linear Algebra](http://www.math.uiuc.edu/~oikhberg/F12/415/ea.html)
-*   [Math 463/ Stat 400 - Statistics and Probability I](http://publish.illinois.edu/sculpepper/stat-400-math-463/)
-*   [Math 461/ Stat 420 - Methods of Applied Statistics (Ongoing)](http://publish.illinois.edu/sculpepper/stat-400-math-461/)
+* Courses
+    * [CS 125 - Intro to Computer Science](https://wiki.cites.illinois.edu/wiki/display/cs125/Home)
+    * [CS 173 - Discrete Structures](https://courses.engr.illinois.edu/cs173/)
+    * [CS 196 - Freshmen Honors (for CS 125)](https://wiki.cites.illinois.edu/wiki/display/cs125/Honors)
+    * [CS 225 - Data Structures](https://wiki.cites.illinois.edu/wiki/display/cs225/Home)
+    * [CS 233 - Computer Architecture](https://wiki.cites.illinois.edu/wiki/display/cs233fa14/Home)
+    * [CS 241 - Systems Programming](http://courses.engr.illinois.edu/cs241)
+    * [CS 296 - Honors Course (for CS 233)](https://wiki.cites.illinois.edu/wiki/display/cs233fa14/Home)
+    * [CS 357 - Numerical Methods I (Ongoing)](https://courseflow.cs.illinois.edu/course/cs357-f14/)
+    * [CS 397 - Individual Study (Course Assistant for CS 125)](https://wiki.cites.illinois.edu/wiki/display/cs125/Home)
+    * [CS 411 - Database Systems (Ongoing)](http://www.cs.uiuc.edu/class/fa07/cs411/)
+    * [CS 461 - Computer Security I (Ongoing)](https://courses.engr.illinois.edu/cs461/fa2009/)
+    * CS 498 - Art and Science of Web Programming (Ongoing)
+    * [Math 241 Honors - Calculus III](http://www.math.uiuc.edu/~oikhberg/F13/241/ea.html)
+    * [Math 415 - Applied Linear Algebra](http://www.math.uiuc.edu/~oikhberg/F12/415/ea.html)
+    * [Math 463/ Stat 400 - Statistics and Probability I](http://publish.illinois.edu/sculpepper/stat-400-math-463/)
+    * [Math 461/ Stat 420 - Methods of Applied Statistics (Ongoing)](http://publish.illinois.edu/sculpepper/stat-400-math-461/)
 
 <!-- ### High School: [Harvard-Westlake](http://hw.com/) August 2009 - May 2013
 
