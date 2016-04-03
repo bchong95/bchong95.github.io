@@ -60,8 +60,13 @@
     var header = $($(root).children()[0])
     // Chop of the extra "() {" stuff
     var headerTitle = header.text().substring(0,header.text().length-5)
-    var title = headerTitle
-    li.text(title)
+    var headerAnchor = header.attr("id")
+    console.log(headerAnchor)
+    li.append(
+      $("<a>")
+        .attr("href", "#"+headerAnchor)
+        .text(headerTitle)
+    )
     // Recursivly build sublists
     var sublist = $('<ul>')
     var somethingAdded = false
