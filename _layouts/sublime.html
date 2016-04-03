@@ -5,7 +5,7 @@
 
   <body>
     <div class="row expanded">
-      <nav id="treeMenu" style="position:fixed; height:100%" class="shrink columns show-for-landscape show-for-large">
+      <nav id="treeMenu" class="shrink columns show-for-landscape show-for-large">
         <h1>Brandon Chong</h1>
       </nav>
       <nav id="hacks" class="shrink columns show-for-landscape show-for-large">
@@ -13,6 +13,8 @@
       </nav>
       <main class="columns">
         {{content}}
+
+        {% include footer.html %}
       </main>
       <aside id="minimap" class="shrink columns show-for-landscape show-for-large" >
       </aside>
