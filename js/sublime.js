@@ -87,8 +87,13 @@
   }
 
   $("#treeMenu").append(htmlTree)
-  ddtreemenu.createTree("treemenu1", true, 5)
+  ddtreemenu.createTree("treemenu1", false)
+  ddtreemenu.flatten('treemenu1', 'expand')
   // Hack to make foundation grid responsive
   $("#hacks").width($("#treeMenu").width())
+})();
 
+// Sets up the mini map
+(function () {
+  $('main').minimap()
 })();
