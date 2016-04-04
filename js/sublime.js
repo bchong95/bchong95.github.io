@@ -84,18 +84,19 @@
 		return li
 	}
 
-  var htmlTree = $("<ul id='treemenu1' class='treeview'>")
+  var htmlTree = $("<ul style='padding-left: 1%;' id='treemenu1' class='treeview'>")
   var sections = $("main").children("section")
   for (var i = 0; i < sections.length; i++) {
     var subtree = buildTree(sections[i])
     htmlTree.append(subtree)
   }
-
-  $("#treeMenu").append(htmlTree)
+  var container = $("<div style='position:fixed'><h1>Brandon Chong</h1></div>")
+  container.append(htmlTree)
+  $("#treeMenu").append(container)
   ddtreemenu.createTree("treemenu1", false)
   ddtreemenu.flatten('treemenu1', 'expand')
   // Hack to make foundation grid responsive
-  $("#hacks").width($("#treeMenu").width())
+  $("#treeMenu").width(htmlTree.width() * 1.2)
 })();
 
 // Sets up the mini map
