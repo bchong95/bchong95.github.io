@@ -6,12 +6,31 @@
   <body>
     <div class="row expanded">
       <nav id="treeMenu" class="shrink columns show-for-large">
+        <div style="position:fixed">
+          <h1>Brandon Chong</h1>
+          <ul id="collections" class="treeview">
+            <a href="{{site.url}}">
+              <li>Portfolio</li>
+            </a>
+            {% for collection in site.collections %}
+              <li>
+                {{collection.label}}
+                {% if collection.docs.length != 0 %}
+                  <ul>
+                    {% for doc in collection.docs %}
+                      <a href="{{doc.url}}">
+                        <li>{{doc.title}}</li>
+                      </a>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
       </nav>
-      <!-- <nav id="hacks" class="shrink columns">
-      </nav> -->
       <main class="columns">
         {{content}}
-
         {% include footer.html %}
       </main>
       <aside id="minimap" class="shrink columns show-for-large" >

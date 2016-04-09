@@ -48,56 +48,61 @@
 })();
 
 // Creates an html list representing the sections
-(function () {
-  var buildTree = function(root) {
-    if($(root).find("h2, h3").length == 0) {
-      // If there are no headers then don't do anything
-      return undefined
-    }
-    var sections = $(root).children("section")
-		var li = $('<li>')
-    // Set the title text based on the header
-    var header = $($(root).children()[0])
-    // Chop of the extra "() {" stuff
-    var headerTitle = header.text().substring(0,header.text().length-5)
-    var headerAnchor = header.attr("id")
-    console.log(headerAnchor)
-    li.append(
-      $("<a>")
-        .attr("href", "#"+headerAnchor)
-        .text(headerTitle)
-    )
-    // Recursivly build sublists
-    var sublist = $('<ul>')
-    var somethingAdded = false
-    for (var i = 0; i < sections.length; i++) {
-      var section = sections[i]
-      var sectionTree = buildTree(section)
-      if (sectionTree != undefined) {
-        sublist.append(sectionTree)
-        somethingAdded = true
-      }
-    }
-    if(somethingAdded){
-      li.append(sublist)
-    }
-		return li
-	}
+// (function () {
+//   var buildTree = function(root) {
+//     if($(root).find("h2, h3").length == 0) {
+//       // If there are no headers then don't do anything
+//       return undefined
+//     }
+//     var sections = $(root).children("section")
+// 		var li = $('<li>')
+//     // Set the title text based on the header
+//     var header = $($(root).children()[0])
+//     // Chop of the extra "() {" stuff
+//     var headerTitle = header.text().substring(0,header.text().length-5)
+//     var headerAnchor = header.attr("id")
+//     console.log(headerAnchor)
+//     li.append(
+//       $("<a>")
+//         .attr("href", "#"+headerAnchor)
+//         .text(headerTitle)
+//     )
+//     // Recursivly build sublists
+//     var sublist = $('<ul>')
+//     var somethingAdded = false
+//     for (var i = 0; i < sections.length; i++) {
+//       var section = sections[i]
+//       var sectionTree = buildTree(section)
+//       if (sectionTree != undefined) {
+//         sublist.append(sectionTree)
+//         somethingAdded = true
+//       }
+//     }
+//     if(somethingAdded){
+//       li.append(sublist)
+//     }
+// 		return li
+// 	}
+//
+//   var htmlTree = $("<ul style='padding-left: 1%;' id='treemenu1' class='treeview'>")
+//   var sections = $("main").children("section")
+//   for (var i = 0; i < sections.length; i++) {
+//     var subtree = buildTree(sections[i])
+//     htmlTree.append(subtree)
+//   }
+//   var container = $("<div style='position:fixed'><h1>Brandon Chong</h1></div>")
+//   container.append(htmlTree)
+//   $("#treeMenu").append(container)
+//   ddtreemenu.createTree("treemenu1", false)
+//   ddtreemenu.flatten('treemenu1', 'expand')
+//   // Hack to make foundation grid responsive
+//   $("#treeMenu").width(htmlTree.width() * 1.2)
+// })();
 
-  var htmlTree = $("<ul style='padding-left: 1%;' id='treemenu1' class='treeview'>")
-  var sections = $("main").children("section")
-  for (var i = 0; i < sections.length; i++) {
-    var subtree = buildTree(sections[i])
-    htmlTree.append(subtree)
-  }
-  var container = $("<div style='position:fixed'><h1>Brandon Chong</h1></div>")
-  container.append(htmlTree)
-  $("#treeMenu").append(container)
-  ddtreemenu.createTree("treemenu1", false)
-  ddtreemenu.flatten('treemenu1', 'expand')
-  // Hack to make foundation grid responsive
-  $("#treeMenu").width(htmlTree.width() * 1.2)
-})();
+ddtreemenu.createTree("collections", false)
+ddtreemenu.flatten('collections', 'expand')
+$("#collections").css("padding-left", "5%")
+$("#treeMenu").width($("#collections").width() * 1.2)
 
 // Sets up the mini map
 (function () {
