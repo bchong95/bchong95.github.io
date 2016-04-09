@@ -99,10 +99,13 @@
 //   $("#treeMenu").width(htmlTree.width() * 1.2)
 // })();
 
-ddtreemenu.createTree("collections", false)
-ddtreemenu.flatten('collections', 'expand')
-$("#collections").css("padding-left", "5%")
-$("#treeMenu").width($("#collections").width() * 1.2)
+// Sets up the tree nav
+(function () {
+  ddtreemenu.createTree("collections", false)
+  ddtreemenu.flatten('collections', 'expand')
+  $("#collections").css("padding-left", "5%")
+  $("#treeMenu").width($("#collections").width() * 1.2)
+})();
 
 // Sets up the mini map
 (function () {
