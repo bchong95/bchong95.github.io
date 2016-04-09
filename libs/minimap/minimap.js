@@ -157,8 +157,8 @@ SOFTWARE.
             cssRegion[settings.position] = offsetLeftRight + 'px';
             region.css(cssRegion);
 
-            // Hack to make foundation grid responsive
-            $("#minimap").width(region.width() * 1.5)
+            // // Hack to make foundation grid responsive
+            // $("#minimap").width(region.width() * 1.5)
             settings.onPreviewChange(miniElement, s);
         };
 

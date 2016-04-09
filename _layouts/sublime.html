@@ -5,35 +5,33 @@
 
   <body>
     <div class="row expanded">
-      <nav id="treeMenu" class="shrink columns show-for-large">
-        <div style="position:fixed">
-          <h1>Brandon Chong</h1>
-          <ul id="collections" class="treeview">
-            <a href="{{site.url}}">
-              <li>Portfolio</li>
-            </a>
-            {% for collection in site.collections %}
-              <li>
-                {{collection.label}}
-                {% if collection.docs.length != 0 %}
-                  <ul>
-                    {% for doc in collection.docs %}
-                      <a href="{{doc.permalink}}">
-                        <li>{{doc.title}}</li>
-                      </a>
-                    {% endfor %}
-                  </ul>
-                {% endif %}
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
+      <nav id="treeMenu" class="large-2 columns show-for-large" >
+        <h1>Brandon Chong</h1>
+        <ul id="collections" class="treeview">
+          <a href="{{site.url}}">
+            <li>Portfolio</li>
+          </a>
+          {% for collection in site.collections %}
+            <li>
+              {{collection.label}}
+              {% if collection.docs.length != 0 %}
+                <ul>
+                  {% for doc in collection.docs %}
+                    <a href="{{doc.permalink}}">
+                      <li>{{doc.title}}</li>
+                    </a>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
       </nav>
-      <main class="columns">
+      <main class="large-7 large-centered columns">
         {{content}}
         {% include footer.html %}
       </main>
-      <aside id="minimap" class="shrink columns show-for-large" >
+      <aside id="minimap" class="large-2 columns show-for-large" >
       </aside>
     </div>
     <!-- <script>$(document).foundation()</script> -->

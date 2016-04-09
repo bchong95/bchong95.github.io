@@ -104,10 +104,13 @@
   ddtreemenu.createTree("collections", false)
   ddtreemenu.flatten('collections', 'expand')
   $("#collections").css("padding-left", "5%")
-  $("#treeMenu").width($("#collections").width() * 1.2)
+  // $("#treeMenu").width($("#collections").width() * 1.2)
 })();
 
 // Sets up the mini map
 (function () {
-  $('main').minimap()
+  // Only add minimap is needed
+  if ($("body").height() > $(window).height()) {
+    $('main').minimap()
+  }
 })();
