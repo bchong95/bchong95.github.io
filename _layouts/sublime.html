@@ -18,7 +18,7 @@
                 {% if collection.docs.length != 0 %}
                   <ul>
                     {% for doc in collection.docs %}
-                      <a href="{{doc.url}}">
+                      <a href="{{doc.permalink}}">
                         <li>{{doc.title}}</li>
                       </a>
                     {% endfor %}
@@ -37,7 +37,7 @@
       </aside>
     </div>
     <!-- <script>$(document).foundation()</script> -->
-    <script src="./js/sublime.js"></script>
+    <script src="{{site.url}}/js/sublime.js"></script>
   </body>
 
 </html>
