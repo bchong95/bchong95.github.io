@@ -101,16 +101,20 @@
 
 // Sets up the tree nav
 (function () {
-  ddtreemenu.createTree("collections", false)
-  ddtreemenu.flatten('collections', 'expand')
-  $("#collections").css("padding-left", "5%")
-  // $("#treeMenu").width($("#collections").width() * 1.2)
+  // Only add tree nav if needed
+  if($("nav").is(':visible')){
+    ddtreemenu.createTree("collections", false)
+    ddtreemenu.flatten('collections', 'expand')
+    $("#collections").css("padding-left", "5%")
+  }
 })();
 
 // Sets up the mini map
 (function () {
-  // Only add minimap is needed
-  if ($("body").height() > $(window).height()) {
-    $('main').minimap()
+  // Only add minimap if needed
+  if($("aside").is(':visible')){
+    if ($("body").height() > $(window).height()) {
+      $('main').minimap()
+    }
   }
 })();
