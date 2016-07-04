@@ -23,6 +23,6 @@ images:
 
 {% for img in page.images %}
 
-- <{{img}}>
+- [{{img}}](./{{img}})
 
 {% endfor %}
