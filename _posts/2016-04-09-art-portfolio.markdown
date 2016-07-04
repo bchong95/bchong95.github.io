@@ -1,30 +1,22 @@
 ---
 layout: sublime
-title:  "Art Portfolio"
-date:   2016-04-09
+title: Art Portfolio
+date: 2016-04-09T00:00:00.000Z
 permalink: art_portfolio
 ---
 
 ## Artist's Statement
-One aspect about me that most people do not know about is that I have a passion for Art.
-If you were to ask someone “who is Brandon Chong” they might say things like “oh, he’s a funny guy” or “he is a complete nerd that talks more about math and computers than his social life”.
-It is true that I love math and I have always perceived the subject to be one where I can prove to my peers that I am intelligent in my own way, but art does something more than just that.
-To me art is not merely “objects made with great skill and imagination” or “the process of giving a physical form to one’s own creativity”, but rather a way for me to expresses my emotions in ways no other language can.
-When I make art, I am effectively showing others exactly what I feel; rather than letting others interpret my emotions, I show them.
 
-Art is also a therapeutic process for me.
-Similar to the Picture of Dorian Gray, my artworks get to retain the emotions that I do not want to feel.
-When I am mad, I can always paint a picture and when I get up form my chair, I look back at the painting and feel happy.
-Dorian Gray commits “ugly” crimes and his self-portrait gets uglier, but he retains his natural beauty.
-Similarly, my pictures retain all the hate, anger, misery and stress I might accumulate throughout the day, which leaves me with only happiness.
-Art is a passion of mine that many do not know I have.
-I pursue art because it helps me truly express my emotions and is a therapeutic process for me.
+One aspect about me that most people do not know about is that I have a passion for Art. If you were to ask someone "who is Brandon Chong" they might say things like "oh, he's a funny guy" or "he is a complete nerd that talks more about math and computers than his social life". It is true that I love math and I have always perceived the subject to be one where I can prove to my peers that I am intelligent in my own way, but art does something more than just that. To me art is not merely "objects made with great skill and imagination" or "the process of giving a physical form to one's own creativity", but rather a way for me to expresses my emotions in ways no other language can. When I make art, I am effectively showing others exactly what I feel; rather than letting others interpret my emotions, I show them.
 
+Art is also a therapeutic process for me. Similar to the Picture of Dorian Gray, my artworks get to retain the emotions that I do not want to feel. When I am mad, I can always paint a picture and when I get up form my chair, I look back at the painting and feel happy. Dorian Gray commits "ugly" crimes and his self-portrait gets uglier, but he retains his natural beauty. Similarly, my pictures retain all the hate, anger, misery and stress I might accumulate throughout the day, which leaves me with only happiness. Art is a passion of mine that many do not know I have. I pursue art because it helps me truly express my emotions and is a therapeutic process for me.
 
 ## Gallery
-<div class="galleria">
-    <!--<img src="images/art_portfolio/.jpg" data-title="" data-description="">-->
-    <!--Make fullscreen compressed versions-->
+
+
+
+<div class="galleria"><_comment>&lt;img src="images/art_portfolio/.jpg" data-title="" data-description=""&gt;</_comment>
+    <_comment>Make fullscreen compressed versions</_comment>
     <img alt="Stream of Consciousness" src="images/art_portfolio/Stream_of_Consciousness_Thumb.jpg" data-title="Stream of Consciousness" data-description="Year: 2012<br>Medium: Oil on Paper<br>Size: 16″ x 10″<br>Description: The purpose of this assignment was to just write out everything that comes to your mind on paper for a couple of minutes and paint a couple of the things that come to you. I chose Physics and Space. I am including this piece, because I am amazed by how well it turned out considering the fact I used so little.">
     <img alt="Expressionist Self Portrait" src="images/art_portfolio/Expressionist_Self_Portrait_Thumb.jpg" data-title="Expressionist Self Portrait" data-description="Year: 2011<br>Medium: Oil Pastel on Paper<br>Size: 24″ x 30″<br>Details: The objective of this project was to experiment with the expressionist stroke and color and include a background from an expressionist master. I chose Van Gogh’s ‘Stone Bench in the Garden of Saint-Paul Hospital, The’ as my background. I am including this piece in my portfolio, because I really enjoyed the stroke I used to get the separation of color I achieved.">
     <img alt="Stress" src="images/art_portfolio/Stress_Thumb.jpg" data-title="Stress" data-description="Year: 2012<br>Medium: Charcoal and Ink on Paper<br>Size: 20″ x 30″<br>Details: My Expressionist Project was to make my audience feel an emotion of choice. I chose stress. I decided to include this piece in my portfolio, since I have never felt less stressed after making it.">
@@ -40,12 +32,17 @@ I pursue art because it helps me truly express my emotions and is a therapeutic 
     <img alt="Beginning With Chance" src="images/art_portfolio/Beginning_With_Chance_Thumb.jpg" data-title="Beginning With Chance" data-description="Year: 2011<br>Medium: Pencil on Paper<br>Size: 24″ x 18″<br>Details: The purpose of this project was to just draw curves and vertices on tracing paper and fold that paper to try and get an interesting design. I am including this piece, because I am surprised by how well the deign turned out, even though I had almost no conscious decision in the making of the shapes and vertices.">
     <img alt="Postcard from a Dream" src="images/art_portfolio/Postcard_from_a_Dream_Thumb.jpg" data-title="Postcard from a Dream" data-description="Year: 2012<br>Medium: Oil on Paper<br>Size: 18″ x 10″<br>Details: The purpose of this assignment was to take a background from a dream and some objects from your subconscious. I am including this piece because it was the first time I used oil and I am proud on the glossy effect I got from it.">
     <img alt="The Environment and Me" src="images/art_portfolio/The_Environment_and_Me_Thumb.jpg" data-title="The Environment and Me" data-description="Year: 2009<br>Medium: Color Pencil and Poster Paint on Paper<br>Size: 8.5″ x 11″<br>Details: The purpose of this assignment was to submit an artwork to the LADWP poster contest. I chose to include the symbolic recycling symbol with all the positives from recycling in the center and the negatives from not recycling as externalities. I am including this piece, because it was one of my first artworks ever and to win a contest is what gave me the initial motivation to pursue art.">
-    <img alt="Expressionist Painting" src="images/art_portfolio/Expressionist_Painting_Thumb.jpg" data-title="Expressionist Painting" data-description="Year: 2012<br>Medium: Acrylic on Canvas<br>Size: 24″ x 30″<br>Details: The purpose of this assignment was simply to paint anything in an Expressionist style. I chose to just paint the first thing that caught my eye, which was the view outside the studio. I am including this piece, because I challenged myself to see how far I can go with just strokes and I am proud of the outcome.">
-</div>
-<script src="{{site.url}}/libs/galleria/galleria-1.2.9.min.js"></script>
-<script>
-    Galleria.loadTheme('{{site.url}}/libs/galleria/themes/classicmod/galleria.classicmod.js');
-    Galleria.configure({ wait: true });
-    Galleria.run('.galleria');
+    <img alt="Expressionist Painting" src="images/art_portfolio/Expressionist_Painting_Thumb.jpg" data-title="Expressionist Painting" data-description="Year: 2012<br>Medium: Acrylic on Canvas<br>Size: 24″ x 30″<br>Details: The purpose of this assignment was simply to paint anything in an Expressionist style. I chose to just paint the first thing that caught my eye, which was the view outside the studio. I am including this piece, because I challenged myself to see how far I can go with just strokes and I am proud of the outcome."></div>
+
+
+
+<script src="{{site.url}}/libs/galleria/galleria-1.2.9.min.js">
 </script>
-<p>And if want to view the raw/uncompressed version of the images <a href="images/art_portfolio/Raw" target="_blank">click here :)</a></p>
+
+<script>
+    Galleria.loadTheme(&#39;{{site.url}}/libs/galleria/themes/classicmod/galleria.classicmod.js&#39;);
+    Galleria.configure({ wait: true });
+    Galleria.run(&#39;.galleria&#39;);
+</script>
+
+And if want to view the raw/uncompressed version of the images [click here :)](images/art_portfolio/Raw)
