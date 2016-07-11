@@ -1,7 +1,7 @@
 ---
 layout: sublime
 title: The Path Of Least Resistance
-date: 2016-06-12T00:00:00.000Z
+date: 2016-06-26T00:00:00.000Z
 permalink: path_of_least_resistance
 ---
 
