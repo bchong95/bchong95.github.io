@@ -107,9 +107,9 @@ In my senior year of High School I started the [Harvard-Westlake Minecraft Club]
   - [Math 241 Honors - Calculus III](http://www.math.uiuc.edu/~oikhberg/F13/241/ea.html)
   - [Math 415 - Applied Linear Algebra](http://www.math.uiuc.edu/~oikhberg/F12/415/ea.html)
   - [Math 463/ Stat 400 - Statistics and Probability I](http://publish.illinois.edu/sculpepper/stat-400-math-463/)
-  - [Math 461/ Stat 420 - Methods of Applied Statistics (Ongoing)](http://publish.illinois.edu/sculpepper/stat-400-math-461/)
+  - [Math 461/ Stat 420 - Methods of Applied Statistics (Ongoing)](http://publish.illinois.edu/sculpepper/stat-400-math-461/) -->
 
-<!-- ### High School: [Harvard-Westlake](http://hw.com/) August 2009 - May 2013 * Cumulative GPA - 3.7/5 * Testing Scores * SAT - 2150 * Math - 780 * Writing - 700 * Critical Reading - 670 * Advanced Placements * [National AP Scholar, AP Scholar with Distinction and AP Scholar with Honor](https://apscore.collegeboard.org/scores/ap-awards/ap-scholar-awards/) * Computer Science A - 4 * Calculus BC - 5 (with AB subscore - 5) * Physics C: Mechanics - 5 * Physics C: Electricity and Magnetism - 5 * Statistics - 5 * Microeconomics - 5 * Macroeconomics - 5 * Biology - 4 * English Language and Composition - 4 * SAT II Subject Tests * Mathematics Level 2 - 790 * Physics - 720 * U.S. History - 670 --> -->
+<!-- ### High School: [Harvard-Westlake](http://hw.com/) August 2009 - May 2013 * Cumulative GPA - 3.7/5 * Testing Scores * SAT - 2150 * Math - 780 * Writing - 700 * Critical Reading - 670 * Advanced Placements * [National AP Scholar, AP Scholar with Distinction and AP Scholar with Honor](https://apscore.collegeboard.org/scores/ap-awards/ap-scholar-awards/) * Computer Science A - 4 * Calculus BC - 5 (with AB subscore - 5) * Physics C: Mechanics - 5 * Physics C: Electricity and Magnetism - 5 * Statistics - 5 * Microeconomics - 5 * Macroeconomics - 5 * Biology - 4 * English Language and Composition - 4 * SAT II Subject Tests * Mathematics Level 2 - 790 * Physics - 720 * U.S. History - 670 -->
 
  ## Resume
 
