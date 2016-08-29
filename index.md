@@ -6,21 +6,20 @@ layout: sublime
 
 HI! My name is Brandon Chong.
 
-I am a sophomore in the [College of Engineering](http://engineering.illinois.edu/) at the [University of Illinois at Urbana-Champaign](http://illinois.edu/) studying [Computer Science](http://cs.illinois.edu/). Many ask me "Why Computer Science?". Computer Science is not like the other sciences in the sense that one does not sit in a lab, mix chemicals and take measurements. In fact, if I told a "scientist" that the fundamental laws of nature do not directly affect the outcome of my "experiments", then they would say that what I do is not even a science. But before I even took a physics, chemistry or biology course, there was me sitting in my math class solving quadratic formulas. I saw a friend of mine punching numbers into his ti-84 and write down solutions and finish his problem set before I solved my first problem. I asked him how and he then showed me how to program the quadratic formula into the calculator. It was at this moment that I knew Computer Science can make people's lives better and that is why I pursue this field of knowledge.
+I am a senior in the [College of Engineering](http://engineering.illinois.edu/) at the [University of Illinois at Urbana-Champaign](http://illinois.edu/) studying [Computer Science](http://cs.illinois.edu/). Many ask me "Why Computer Science?". Computer Science is not like the other sciences in the sense that one does not sit in a lab, mix chemicals, and take measurements. In fact, if I told a "scientist" that the fundamental laws of nature do not directly affect the outcome of my "experiments", then they would say that what I do is not even a science. But before I even took a physics, chemistry or biology course, there was me sitting in my math class solving quadratic formulas. I saw a friend of mine punching numbers into his ti-84 and finish his problem set before I solved my first problem. I asked him how his calculator was able to solve quadratic formulas. He said "I thought it." and showed me how to program the quadratic formula into the calculator. It was at this moment that I knew Computer Science could make people's lives better and that is why I pursue this field of knowledge.
 
-## Programming Languages
+<!-- ## Programming Languages
 
 - Java
 - C
 - C++
 - C#
+- Python
 - Web Development
-
   - HTML/XML
   - CSS
   - Javascript
   - jQuery
-  - Python
   - PHP
   - SQL
 
@@ -30,7 +29,7 @@ I am a sophomore in the [College of Engineering](http://engineering.illinois.edu
 - Visual Studio 2013 and ASP.NET Framework 4.0
 - Microsoft SQL Studio Management and PHPMyAdmin
 - Terminal and Command Prompt
-- GitHub and Subversion
+- Git and Subversion
 
 ## Projects
 
@@ -110,7 +109,7 @@ In my senior year of High School I started the [Harvard-Westlake Minecraft Club]
   - [Math 463/ Stat 400 - Statistics and Probability I](http://publish.illinois.edu/sculpepper/stat-400-math-463/)
   - [Math 461/ Stat 420 - Methods of Applied Statistics (Ongoing)](http://publish.illinois.edu/sculpepper/stat-400-math-461/)
 
-<!-- ### High School: [Harvard-Westlake](http://hw.com/) August 2009 - May 2013 * Cumulative GPA - 3.7/5 * Testing Scores * SAT - 2150 * Math - 780 * Writing - 700 * Critical Reading - 670 * Advanced Placements * [National AP Scholar, AP Scholar with Distinction and AP Scholar with Honor](https://apscore.collegeboard.org/scores/ap-awards/ap-scholar-awards/) * Computer Science A - 4 * Calculus BC - 5 (with AB subscore - 5) * Physics C: Mechanics - 5 * Physics C: Electricity and Magnetism - 5 * Statistics - 5 * Microeconomics - 5 * Macroeconomics - 5 * Biology - 4 * English Language and Composition - 4 * SAT II Subject Tests * Mathematics Level 2 - 790 * Physics - 720 * U.S. History - 670 -->
+<!-- ### High School: [Harvard-Westlake](http://hw.com/) August 2009 - May 2013 * Cumulative GPA - 3.7/5 * Testing Scores * SAT - 2150 * Math - 780 * Writing - 700 * Critical Reading - 670 * Advanced Placements * [National AP Scholar, AP Scholar with Distinction and AP Scholar with Honor](https://apscore.collegeboard.org/scores/ap-awards/ap-scholar-awards/) * Computer Science A - 4 * Calculus BC - 5 (with AB subscore - 5) * Physics C: Mechanics - 5 * Physics C: Electricity and Magnetism - 5 * Statistics - 5 * Microeconomics - 5 * Macroeconomics - 5 * Biology - 4 * English Language and Composition - 4 * SAT II Subject Tests * Mathematics Level 2 - 790 * Physics - 720 * U.S. History - 670 --> -->
 
  ## Resume
 
