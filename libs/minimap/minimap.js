@@ -32,7 +32,7 @@ SOFTWARE.
         var shown = true;
 
         var defaults = {
-            heightRatio : 0.75,
+            heightRatio : 0.6,
             widthRatio : 0.1,
             offsetHeightRatio : 0.035,
             offsetWidthRatio : 0.035,
