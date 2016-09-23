@@ -16,68 +16,127 @@ So I stood in the shower and thought to myself Okay what I am trying to teach is
 ## Vector
 
 Me: Mom supposed you had a public storage unit that could only fit ten things and you wanted to fit an eleventh thing
+
 Mom: Okay.
+
 Me: What would you do?
+
 Mom: Well I would look through those ten things and see if I could get rid of one of them to make room for the eleventh thing.
+
 Me to myself: Mhmmm. So you are talking about a fixed sized buffer with some kind of eviction policy.
+
 Me: Suppose you had to keep all eleven things, then what would you do?
+
 Mom: Well I guess I would have to rent a bigger storage unit and move all of my stuff over.
+
 Me to myself: EXACTLY!!! this is equivalent to mallocing an array twice as big, copying all the data over, and updating the reference to the array.
+
 Mom: What else would you do?
+
 Me: Some people will do a 'buffer overflow' which is the equivalent of putting your stuff in someone else's public storage unit.
 
 ## Linked List
 
 Me: Okay mom, just bare with me for a second.
+
 Mom: Okay??....
+
 Me: Suppose you were renting storage units and instead of writing down a list of all the ones you owned on a sheet of paper you instead left a note in every storage unit with the address of the next storage unit.
+
 Mom: By "address" do you mean I can just punch it into my GPS and drive over there?
+
 Me: Yep! We call that "dereferencing a pointer" in programming.
+
 Mom: Okay I think I get the setup, but I would never do it like that.
+
 Me: What would you do?
+
 Mom: I would have an address book where I remember the address of every storage unit that I own and the contents of the storage unit.
+
 Me: Okay we call that a dictionary in programming, but I think it's a little too advanced for the current analogy.
+
 Mom: Okay, so what did you want me to do with these storage units that are linked up in this fashion?
+
 Me to myself: Wow even the naming is intuitive.
+
 Me: Okay mom, suppose I pointed to a storage unit and asked you "Do you own this storage unit?" how would you confirm or deny?
+
 * This is me asking her to come up with an algorithm for searching through a linked list*
+
 Mom: Well it depends.
+
 Me: Depends?!?!?! On what?
+
 Mom: Well I would need to know where my first storage unit is.
+
 Me to myself: WOW!!!! My mom has intuitively come to the conclusion that she needs a reference to head of the linked list to even begin iterating through it.
+
 Me: Okay suppose I took you to the first storage unit. What would you do?
+
 Mom: Well either that first storage unit is the storage unit that I am looking for or it's not. If it is then yeah I own the storage unit in question.
+
 Me: If it's not?
+
 Mom: Well I would look at the note I left myself and go to the next storage unit and we are back to the same scenario.
+
 Me to myself: She's intuitively come to the conclusion that the linked list is recursive in nature and she is using recursion to reduce the problem to a subproblem. Nice!
+
 Me: Okay that will tell you "yes you own the storage unit." if you actually did, but how would you know if you didn't own the storage unit.?
+
 Mom: Well when I get to the last storage unit and I still haven't found the storage unit in question.
+
 Me: How would you know that you are at the last storage unit.
+
 Mom: Well that part is ambiguous, since you haven't told me what I do with my last storage unit, but I presume I would either have a note saying it is the last one or I would already know how many storage units I own.
+
 Me to myself: Nice. She as intuitively discovered that in order to traverse through dynamic memory you need to either know the length ahead of schedule or have some kind of terminating symbol.
+
 Me: Okay nice. Now suppose you got a new storage unit, "How would you add it to this bookkeeping system?"
+
 Mom: Do I know where the last storage unit is?
+
 Me: Sure what would you do?
+
 Mom: I would go to the last storage unit and leave a note telling me where this new storage unit is
+
 Me: Okay what if you didn't know where the last storage unit was?
+
 Mom: Hmm I could just go find the last storage unit with the methods we just talked about and then do the thing where I add a note.
+
 Me to myself: Nice! She reduced to problem to something she already knew.
+
 Me: Okay suppose I only told you where the first storage unit was "is there a way to add the new storage unit to bookkeeping without visiting all the existing units?"
+
 Mom: Hmm ... Well I guess if the ordering didn't matter I could just take that new storage unit and leave a note telling me where my first storage unit was.
+
 Me to myself: Okay she has figured out appending to the head of a linked list in O(1) time.
+
 Me: But what if I wanted to come back to that storage unit? I can't go backwards from the first storage unit
+
 Mom: Oh I guess you would have to just say that the new storage unit is the new first storage unit.
+
 Me to myself: Good she is updating her head pointer.
+
 Me: Okay now what if I pointed to a storage unit and said "that storage unit is no longer yours", then how would you remove it from your bookkeeping?
+
 Mom: Hmm ... do I know the where the storage unit right before is?
+
 Me: Sure.
+
 Mom: Well I would update the note in the previous storage unit.
+
 Me: To what?
+
 Mom: To the location of the storage unit that comes right after the one I have to remove.
+
 Me: How do you know that works?
+
 Mom: It's like you are skipping over the storage unit you had to remove.
+
 Me: Nice!
+
 Me: Okay what if you didn't know where the previous one is
+
 Mom: Same trick: if I didn't know where one of my storage units were, then I would just look for it.
 
 At this point I decided that my Mom should have gone into computer science instead of me :)
@@ -89,29 +148,53 @@ Maybe the next time I go back home I will ask her to do other operations like re
 I decided to take the analogy just a little further
 
 Me: Ok Mom. Suppose now instead of renting storage units you are the person renting out storage units.
+
 Mom: Ok so I am the landlord now.
+
 Me: Yep. Here are the extra conditions. I want you to imagine that you have a bunch of heterogeneous storage units (they are not necessarily all the same size), they are measured by how many boxes they can store (all the boxes are the same size) and the storage units are adjacent to each other in a single file line. Oh it's also a free service and the only restrictions is that doing the job quickly and saving space makes your manager happy :)
+
 Mom: Okay I get that.
+
 Me: Okay now suppose someone walked up to you and said I need a storage unit that can fit 23 boxes, then what storage unit would you give them.
+
 Mom: Well an available one that can at least store 23 boxes.
+
 Me: Any other restrictions?
+
 Mom: Well it depends.
+
 Me: On?
+
 Mom: Well you have to give them an available unit otherwise they would be putting there stuff in someone else's unit and it has to at least be large enough for the things they want.
+
 Me: Would you ever want to give them a larger storage unit than requested?
+
 Mom: Maybe that's what I have laying around. If that's the case, then it's really easy to just give them that. Also if I give them a storage unit that is exactly the size they need right now, then they might need to store 24 boxes in the future and then they have to move all their stuff into a new storage unit later.
+
 Me to myself: There is some nice space vs time analysis here.
+
 Me: Okay now suppose you had someone come up to you and said I need a storage unit that can store 100 boxes and you simply don't have a storage unit big enough, what would you do?
+
 Mom: Well I could just build a storage unit right next to my existing lot that is big enough.
+
 Me to myself: Okay that is equivalent to calling sbrk() and extending your heap.
+
 Me: Okay what if I added the restriction that you couldn't build a new storage unit.
+
 Mom: Hmm ... I guess I could give them two smaller storage units and they can split their stuff ...
+
 Me: You don't seem to like that solution???
+
 Mom: Yeah because now their stuff is in two places.
+
 Me: Okay what would you do if all the stuff had to be in one place?
+
 Mom: Oh! I could look for some smaller storage units that are right next to each other and tear down the dividers!
+
 Me: Yep we call that coalescing free blocks.
+
 Me: Okay now what if someone wanted a storage unit big enough to store 10 things, but all you had was a storage unit big enough to to fit 100 things?
+
 Mom: Oh I would put a divider there and someone else could rent out the remainder of the storage unit.
 
 My mom figured out a naive memory allocator without ever taking a system programming class. All she needed was a tangible example.
