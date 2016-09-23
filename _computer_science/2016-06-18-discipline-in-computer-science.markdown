@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Discipline in Computer Science
-date: 2016-04-09T00:00:00.000Z
 permalink: discipline_in_computer_science
 ---
 

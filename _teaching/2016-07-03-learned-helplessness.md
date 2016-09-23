@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Learned Helplessness
-date: 2016-07-03T00:00:00.000Z
 permalink: learned_helplessness
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Art Portfolio
-date: 2016-04-09T00:00:00.000Z
 permalink: art_portfolio
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: 'Dining, Thinking, Cab Driving Locksmith'
-date: 2016-04-09T00:00:00.000Z
 permalink: dining_thinking_cab_driving_locksmith
 ---
 

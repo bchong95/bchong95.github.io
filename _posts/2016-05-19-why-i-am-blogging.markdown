@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Why I Am Blogging
-date: 2016-05-19T00:00:00.000Z
 permalink: why_i_am_blogging
 ---
 

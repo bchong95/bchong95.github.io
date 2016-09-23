@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Make Them Sweat
-date: 2016-05-28T00:00:00.000Z
 permalink: make_them_sweat
 ---
 
