@@ -61,7 +61,7 @@ Me to myself: Wow even the naming is intuitive.
 
 Me: Okay mom, suppose I pointed to a storage unit and asked you "Do you own this storage unit?" how would you confirm or deny?
 
-* This is me asking her to come up with an algorithm for searching through a linked list*
+This is me asking her to come up with an algorithm for searching through a linked list
 
 Mom: Well it depends.
 
