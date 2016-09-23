@@ -33,7 +33,7 @@ SOFTWARE.
 
         var defaults = {
             heightRatio : 0.6,
-            widthRatio : 0.05,
+            widthRatio : 0.1,
             offsetHeightRatio : 0.035,
             offsetWidthRatio : 0.035,
             position : "right",
