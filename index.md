@@ -1,5 +1,6 @@
 ---
 layout: sublime
+title: Portfolio
 ---
 
 ## About Me
