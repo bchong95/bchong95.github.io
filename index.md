@@ -115,10 +115,10 @@ In my senior year of High School I started the [Harvard-Westlake Minecraft Club]
 
 ## Resume
 
-Source: http://docs.google.com/viewer?url=https://github.com/bchong95/Resume/raw/master/resume.pdf&amp;embedded=true
 <div>
   <iframe src="http://docs.google.com/viewer?url=https://github.com/bchong95/Resume/raw/master/resume.pdf&amp;embedded=true" frameborder="0" allowfullscreen="" style="border: none;width: 850px;height: 1100px;">
-</iframe>
+    Source: http://docs.google.com/viewer?url=https://github.com/bchong95/Resume/raw/master/resume.pdf&amp;embedded=true
+  </iframe>
 </div>
 
 ## Interests
