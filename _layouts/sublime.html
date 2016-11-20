@@ -29,6 +29,19 @@
       </nav>
       <header class="large-7 large-centered columns">
         <h1>{{page.title}}</h1>
+        <!-- U.S. Style with AP Month Abbreviations and Ordinalized Days -->
+        <!-- http://alanwsmith.com/jekyll-liquid-date-formatting-examples -->
+        <p style="text-align:right;">
+          {% assign d = page.date | date: "%-d"  %}
+          {{ page.date | date: "%B" }}
+          {% case d %}
+            {% when '1' or '21' or '31' %}{{ d }}st
+            {% when '2' or '22' %}{{ d }}nd
+            {% when '3' or '23' %}{{ d }}rd
+            {% else %}{{ d }}th
+            {% endcase %},
+          {{ page.date | date: "%Y" }}
+        </p>
         <hr/>
       </header>
       <main class="large-7 large-centered columns">
