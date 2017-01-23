@@ -17,7 +17,7 @@
               {% if collection.docs.length != 0 %}
                 <ul>
                   {% for doc in collection.docs %}
-                    {% assign filename = page.url | replace_first: '/', '' | replace: '/', '-'  | replace: '.html', '.md' %}
+                    {% assign filename = doc.url | replace_first: '/', '' | replace: '/', '-'  | replace: '.html', '.md' %}
                     <a href="{{filename}}">
                       <li>{{doc.title}}</li>
                     </a>
