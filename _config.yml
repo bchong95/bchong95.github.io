@@ -20,9 +20,13 @@ markdown: kramdown
 collections:
   teaching:
     output: true
+    permalink: :path
   life:
     output: true
+    permalink: :path
   projects:
     output: true
+    permalink: :path
   computer_science:
     output: true
+    permalink: :path

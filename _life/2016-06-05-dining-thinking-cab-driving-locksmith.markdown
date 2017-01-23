@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: 'Dining, Thinking, Cab Driving Locksmith'
-permalink: dining_thinking_cab_driving_locksmith
 ---
 
 ## Backstory

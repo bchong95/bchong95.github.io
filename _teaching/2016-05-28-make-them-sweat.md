@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Make Them Sweat
-permalink: make_them_sweat
 ---
 
 ## Forced To Persevere

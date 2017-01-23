@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Learned Helplessness
-permalink: learned_helplessness
 ---
 
 ## Lack Of Independence

@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Effortless Perfection
-permalink: effortless_perfection
 ---
 
 ## Hard Work Isn't Sexy

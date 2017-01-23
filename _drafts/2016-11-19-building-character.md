@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Building Character
-permalink: building_character
 ---
 
 ## Talent Only Goes So Far (should save for threadmill story)

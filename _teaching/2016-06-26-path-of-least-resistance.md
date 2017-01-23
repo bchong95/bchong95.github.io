@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: The Path Of Least Resistance
-permalink: path_of_least_resistance
 ---
 
 ## They Just Want The Answer

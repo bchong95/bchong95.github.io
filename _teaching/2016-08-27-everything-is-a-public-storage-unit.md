@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Everything Is A Public Storage Unit
-permalink: everything_is_a_public_storgae_unit
 ---
 ## ELI5
 

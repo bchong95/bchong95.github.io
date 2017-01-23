@@ -1,7 +1,6 @@
 ---
 layout: sublime
 title: Discipline in Computer Science
-permalink: discipline_in_computer_science
 ---
 
 ## Computer Science is Not Computer Programming
