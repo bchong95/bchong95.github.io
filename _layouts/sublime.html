@@ -17,7 +17,8 @@
               {% if collection.docs.length != 0 %}
                 <ul>
                   {% for doc in collection.docs %}
-                    <a href="{{doc.permalink}}">
+                    {% assign filename = page.url | replace_first: '/', '' | replace: '/', '-'  | replace: '.html', '.md' %}
+                    <a href="{{filename}}">
                       <li>{{doc.title}}</li>
                     </a>
                   {% endfor %}
@@ -52,7 +53,7 @@
         {{content}}
         {% include footer.html %}
       </main>
-      
+
       <aside id="minimap" class="large-2 columns show-for-large" >
       </aside>
     </div>
