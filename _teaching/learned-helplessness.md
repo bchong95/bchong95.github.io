@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: Learned Helplessness
+date: 2016-07-03T10:20:00Z
 ---
 
 ## Lack Of Independence

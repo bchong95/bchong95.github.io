@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: Everything Is A Public Storage Unit
+date: 2016-08-27T10:20:00Z
 ---
 ## ELI5
 

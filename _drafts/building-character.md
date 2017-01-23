@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: Building Character
+date: 2016-11-19T10:20:00Z
 ---
 
 ## Talent Only Goes So Far (should save for threadmill story)

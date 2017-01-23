@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: Effortless Perfection
+date: 2016-09-23T10:20:00Z
 ---
 
 ## Hard Work Isn't Sexy

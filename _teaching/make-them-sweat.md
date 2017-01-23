@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: Make Them Sweat
+date: 2016-05-28T10:20:00Z
 ---
 
 ## Forced To Persevere

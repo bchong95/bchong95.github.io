@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: Be Human
+date: 2016-06-12T10:20:00Z
 ---
 
 ## All Teachers Were Once Students

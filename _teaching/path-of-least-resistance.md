@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: The Path Of Least Resistance
+date: 2016-06-26T10:20:00Z
 ---
 
 ## They Just Want The Answer

@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: 'Dining, Thinking, Cab Driving Locksmith'
+date: 2016-06-05T10:20:00Z
 ---
 
 ## Backstory
