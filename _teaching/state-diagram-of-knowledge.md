@@ -4,7 +4,7 @@ title: Finite State Diagram of Knowledge
 date: 2017-01-24T10:20:00Z
 ---
 
-<!-- ## What is it? -->
+## What is it?
 
 One of the first questions I tried to answer as an instructor was "where do I draw the line between 'the student has some gaps in their understanding of the material' and 'the student has not done the prerequisite material in order to succeed in this class'. After some self reflection I came up with the "State Diagram of Knowledge".
 
