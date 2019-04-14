@@ -30,3 +30,6 @@ collections:
   computer_science:
     output: true
     permalink: :path
+  personal_finance:
+    output: true
+    permalink: :path
