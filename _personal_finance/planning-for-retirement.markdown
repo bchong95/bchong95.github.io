@@ -80,15 +80,13 @@ I do not think there is much to take away from the withdrawal rate in the table,
 
 You want to plan for your financial independence and retirement, but this isn’t a “set it and forget it” strategy. The takeaway isn’t “Oh just put aside 25 times my yearly expenses and then you should be good”. Recessions do happen and you should be prepared for them. Two ways to be prepared as mentioned in earlier sections:
 
-1) Be able to adjust your lifestyle during recessions to preserve capital.
-
-2) Have a blended portfolio to buy low and sell high.
+* Be able to adjust your lifestyle during recessions to preserve capital.
+* Have a blended portfolio to buy low and sell high.
 
 If you want to be extra safe you can have two costs of living:
 
-1) Bare minimums - Food, Shelter, and Healthcare
-
-2) Best Life - Luxury Purchases, Vacations, and Assets to Pass On
+* Bare minimums - Food, Shelter, and Healthcare
+* Best Life - Luxury Purchases, Vacations, and Assets to Pass On
 
 And to be safe have 25 times the more expensive lifestyle.
 
