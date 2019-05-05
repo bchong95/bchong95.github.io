@@ -12,15 +12,17 @@ A common question people ask on their journey to financial independence and earl
 
 The paper used historical data to try and see if a person's retirement portfolio would allow them to remain financially independent until they are finished with retirement. The researchers created a three dimensional table that has an axis for the following:
 
+
 * Payout Period - How long you need to retire off your investments.
 * Portfolio Composition - What percent stocks and what percent bonds.
 * Withdrawal Rate - What portion of your portfolio do you cash out for your expenses every year.
+
 
 And for the cross product of those factors they calculated the “Portfolio Success Rate”. In this experiment “success” was defined as having a non zero amount of money in your portfolio after you are done being retired. “Success Rate” was determined by taking these hypothetical portfolios and running them against the data from 1926 to 1995. For the almost 70 years of data there are about 55 years of portfolio start dates that need to last 15 years, and if 50 of them succeed, then the rate is ~50/55 = ~91%. The final table looks like this:
 
 ![Portfolio Success Rates](https://www.aaii.com/images/journal/6794-table-1.gif)
 
-Source: [https://www.aaii.com/images/journal/6794-table-1.gif](https://www.aaii.com/images/journal/6794-table-1.gif)
+[Source](https://www.aaii.com/images/journal/6794-table-1.gif)
 
 As the note says in the paper and the table, the researchers used the S&P 500 index to represent a stock portfolio and long term, high grade corporates to represent a bond portfolio. All compositions are just weighted between the two sources. 
 Takeaways From The Table
@@ -70,11 +72,13 @@ I do not think there is much to take away from the withdrawal rate in the table,
 You want to plan for your financial independence and retirement, but this isn’t a “set it and forget it” strategy. The takeaway isn’t “Oh just put aside 25 times my yearly expenses and then you should be good”. Recessions do happen and you should be prepared for them. Two ways to be prepared as mentioned in earlier sections:
 
 1) Be able to adjust your lifestyle during recessions to preserve capital.
+
 2) Have a blended portfolio to buy low and sell high.
 
 If you want to be extra safe you can have two costs of living:
 
 1) Bare minimums - Food, Shelter, and Healthcare
+
 2) Best Life - Luxury Purchases, Vacations, and Assets to Pass On
 
 And to be safe have 25 times the more expensive lifestyle.
@@ -88,6 +92,6 @@ A chart of the S&P 500 will show how the last two decades of stock market tradin
 
 ![S&P 500 Chart](https://upload.wikimedia.org/wikipedia/commons/7/7e/S_and_P_500_chart_1950_to_2016_with_averages.png)
 
-Credit: [https://upload.wikimedia.org/wikipedia/commons/7/7e/S_and_P_500_chart_1950_to_2016_with_averages.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/S_and_P_500_chart_1950_to_2016_with_averages.png)
+[Credit](https://upload.wikimedia.org/wikipedia/commons/7/7e/S_and_P_500_chart_1950_to_2016_with_averages.png)
 
 As we can see the stock market had very minor boom and bust cycles from 1950 to 1995, but only recently in the 21st century have we had such massive swings in the stock market. Never before have we seen 200% gains followed by 50% loses over a 5 year period in the stock market. There is even evidence of bubbles that will come up in the near future. Student loan and healthcare are just some on people’s radars. This just shows that the historical data from the paper was collected from a financial landscape that doesn’t exist today. Another outdated part of the paper is that bonds are much less in favor today, then they were 20 years ago. These factors are things everyone will just have to account for in their “personal” finance journey and no one article is going to have a strategy that works for all future financial scenarios. The best we can do is learn for the past, figure out what worked, apply some of those strategies to today, and see what changes we need to make for tomorrow.
