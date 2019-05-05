@@ -10,7 +10,7 @@ A common question people ask on their journey to financial independence and earl
 
 ## How Was 4 Percent Derived?
 
-The paper used historical data to try and see if a person's retirement portfolio would allow them to remain financially independent until they are finished with retirement. The researchers created a three dimensional table that has an axis for the following.
+The paper used historical data to try and see if a person's retirement portfolio would allow them to remain financially independent until they are finished with retirement. The researchers created a three dimensional table that has an axis for the following:
 
 * Payout Period
   * How long you need to retire off your investments.
