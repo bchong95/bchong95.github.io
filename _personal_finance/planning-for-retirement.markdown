@@ -10,13 +10,14 @@ A common question people ask on their journey to financial independence and earl
 
 ## How Was 4 Percent Derived?
 
-The paper used historical data to try and see if a person's retirement portfolio would allow them to remain financially independent until they are finished with retirement. The researchers created a three dimensional table that has an axis for the following:
+The paper used historical data to try and see if a person's retirement portfolio would allow them to remain financially independent until they are finished with retirement. The researchers created a three dimensional table that has an axis for the following.
 
-
-* Payout Period - How long you need to retire off your investments.
-* Portfolio Composition - What percent stocks and what percent bonds.
-* Withdrawal Rate - What portion of your portfolio do you cash out for your expenses every year.
-
+* Payout Period
+  * How long you need to retire off your investments.
+* Portfolio Composition
+  * What percent stocks and what percent bonds.
+* Withdrawal Rate
+  * What portion of your portfolio do you cash out for your expenses every year.
 
 And for the cross product of those factors they calculated the “Portfolio Success Rate”. In this experiment “success” was defined as having a non zero amount of money in your portfolio after you are done being retired. “Success Rate” was determined by taking these hypothetical portfolios and running them against the data from 1926 to 1995. For the almost 70 years of data there are about 55 years of portfolio start dates that need to last 15 years, and if 50 of them succeed, then the rate is ~50/55 = ~91%. The final table looks like this:
 
@@ -41,9 +42,17 @@ The learning experience about payout period is that you should plan for some rec
 
 He keeps one of following as exact change for breakfast:
 
-* $2.61 - Two Sausages Patties - When the market is down
-* $2.95 - Unspecified - When the market is flat
-* $3.17 - Bacon Egg and Cheese Biscuit - When the market is up
+* $2.61
+  * Two Sausages Patties
+  * When the market is down
+
+* $2.95
+  * Unspecified
+  * When the market is flat
+
+* $3.17 
+  * Bacon Egg and Cheese Biscuit
+  * When the market is up
 
 This is an example of a person worth $80 billion saving 50 cents on breakfast when the market is down to preserve his capital.
 
