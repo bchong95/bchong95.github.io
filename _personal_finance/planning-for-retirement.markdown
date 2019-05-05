@@ -30,7 +30,7 @@ Takeaways From The Table
 
 The most insightful part of the study is how the three factors (Payout Period, Portfolio Composition, Withdrawal Rate) correlate with success rate. When analyzing the three factors we get a better understanding of where the 4% rule came from and how we can financially plan for our futures, since every individual has different financial goals (hence the “personal” part of “personal finance”). 
 
-### Payout Period
+## Payout Period
 
 The overall trend with payout period is that regardless of the portfolio composition or withdrawal rate you decide the longer you need your retirement portfolio to last the less chance that portfolio will outlive you. The mathematical reason behind this is that even if the market was flat and inflation was not a thing you can withdraw 5 percent a year safely for 20 years, but not for 21+ years.
 
@@ -56,7 +56,7 @@ He keeps one of following as exact change for breakfast:
 
 This is an example of a person worth $80 billion saving 50 cents on breakfast when the market is down to preserve his capital.
 
-### Portfolio Composition
+## Portfolio Composition
 
 What we find with portfolio composition is that a good mix of stocks and bonds does the best at providing successful safe withdrawal. Let’s focus on the extreme portfolio compositions in order to learn from them.
 
@@ -72,7 +72,7 @@ Diversification is always good, but I think a less stated benefit of a blended p
 
 Having a fixed allocation of stocks and bonds means you are mathematically going to have to sell stocks and buy bonds when the stock market is up (thus locking in gains). And the reverse is true where you going to have to sell bonds and buy stocks when the stock market is down (buying stocks at a discount). So with those two things put together you are “buying low and selling high”.
 
-### Withdrawal Rate
+## Withdrawal Rate
 
 I do not think there is much to take away from the withdrawal rate in the table, since it’s a mathematical side effect. The higher your withdrawal rate the less safely you can withdraw regardless of the payout period and portfolio composition. So unlike the other two factors I do not have take away lessons. 
 
