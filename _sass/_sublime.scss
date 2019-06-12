@@ -44,15 +44,15 @@ a{
 }
 
 #treeMenu a:link, #treeMenu a:visited{
-	color: #272822;
+	color: $monokai-black;
 }
 
 a:link, a:visited{
-	color: #F92672;
+	color: $monokai-pink;
 }
 
 a:hover, a:active {
-	color: #FD971F;
+	color: $monokai-orange;
 }
 
 section {
@@ -62,4 +62,8 @@ section {
 
 img {
   max-width: 100%;
+}
+
+table {
+  color: $monokai-black;
 }
