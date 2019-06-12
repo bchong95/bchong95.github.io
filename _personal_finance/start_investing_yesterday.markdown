@@ -8,7 +8,7 @@ date: 2019-06-12T10:20:00Z
 I'm a firm believer that everyone should invest as soon as possible (and before they are born if possible). A great quote for a real life analogy is:
 
 ```
-The best time to plant a tree is twenty years ago. The second best time is now.
+"The best time to plant a tree is twenty years ago. The second best time is now."
 - Unknown Origin (Credited as Chinese Proverb)
 ```
 
@@ -17,7 +17,7 @@ What the quote is trying to get across is that a tree takes time to grow and if 
 The quote extends well past personal finance, but I feel it shines best in the context of the time value of money. One thing I want everyone to get out of this post is that
 
 ```
-A dollar today is worth 4 times as much as a dollar 20 years from now.
+"A dollar today is worth 4 times as much as a dollar 20 years from now."
 - Quick Maths
 ```
 
