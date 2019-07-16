@@ -1,6 +1,7 @@
 ---
 layout: sublime
 title: Portfolio
+disable_comments:true
 ---
 
 ## About Me
