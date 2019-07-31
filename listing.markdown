@@ -7,10 +7,7 @@ title: Listing
 ## Posts
 
 <div>
-    <ul id="collections" class="treeview">
-        <a href="{{site.url}}">
-            <li>Portfolio</li>
-        </a>
+    <ul id="collections">
         {% for collection in site.collections %}
         <li>
             {{collection.label}}
