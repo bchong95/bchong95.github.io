@@ -21,7 +21,7 @@ collections:
   teaching:
     output: true
     permalink: :path
-  life:
+  universal_algorithms:
     output: true
     permalink: :path
   projects:
